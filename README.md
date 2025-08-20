@@ -11,11 +11,7 @@ Trabajo principalmente con tecnologías como NestJS, TypeORM, PostgreSQL, React 
 Si estás buscando a alguien comprometido, con mentalidad de crecimiento y una fuerte base técnica, me encantaría que charlemos.
 
 - ⚡ **Principales tecnologías:**
-  - NestJS
-  - Next.js
-  - React
-  - TypeScript
-  - Bases de datos relacionales y no relacionales
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
 
 - 🚀 Siempre listo para asumir nuevos desafíos y trabajar en equipo para lograr los mejores resultados.
 
